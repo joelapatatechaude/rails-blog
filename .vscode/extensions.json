@@ -1,5 +1,7 @@
 {
   "recommendations": [
-    "vscode/ruby"
+    "vscode.ruby",
+    "rebornix.ruby",
+    "GitLab.gitlab-workflow"
   ]
 }
