@@ -3,6 +3,7 @@
     "vscode.ruby",
     "rebornix.ruby",
     "GitLab.gitlab-workflow",
-    "redhat.vscode-openshift-connector"
+    "redhat.vscode-openshift-connector",
+    "cnshenj.vscode-task-manager"
   ]
 }
