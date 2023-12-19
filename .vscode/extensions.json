@@ -2,6 +2,7 @@
   "recommendations": [
     "vscode.ruby",
     "rebornix.ruby",
-    "GitLab.gitlab-workflow"
+    "GitLab.gitlab-workflow",
+    "redhat.vscode-openshift-connector"
   ]
 }
