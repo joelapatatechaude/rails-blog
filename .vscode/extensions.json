@@ -4,6 +4,7 @@
     "rebornix.ruby",
     "GitLab.gitlab-workflow",
     "redhat.vscode-openshift-connector",
-    "cnshenj.vscode-task-manager"
+    "cnshenj.vscode-task-manager",
+    "eg2.vscode-npm-script"
   ]
 }
