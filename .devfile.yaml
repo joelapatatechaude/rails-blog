@@ -12,8 +12,8 @@ components:
   - name: devtools
     container:
       image: quay.io/mloriedo/rails-blog-cde:latest
-      memoryRequest: 1G
-      memoryLimit: 2G
+      memoryRequest: '512Mi'
+      memoryLimit: '1G'
       cpuRequest: '0.25'
       cpuLimit: '0.5'
       volumeMounts:
