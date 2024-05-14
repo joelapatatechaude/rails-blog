@@ -14,8 +14,8 @@ components:
       image: quay.io/mloriedo/rails-blog-cde:latest
       memoryRequest: 2G
       memoryLimit: 4G
-      cpuRequest: '1'
-      cpuLimit: '2'
+      cpuRequest: '0.25'
+      cpuLimit: '0.5'
       volumeMounts:
         - name: bundle-volume
           path: /home/user/.bundle/vendor
